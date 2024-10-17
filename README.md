@@ -5,10 +5,6 @@
 
 I'm a B.Tech IT student at MSIT Delhi (affiliated with IPU University). I love working on web development projects using the MERN stack and exploring the world of cloud computing. Currently, I'm building exciting projects and expanding my skills in both domains.
 
-## 💼 Projects
-- **[CareSaathi](https://github.com/shivengoomer/CareSaathi)** - A blog and feed platform for sharing health and mental wellness experiences.
-- **TheNaanStop** - (Ongoing) A web development project focused on...
-
 ## 🌱 I’m currently learning
 - Advanced cloud computing concepts
 - Deepening my MERN stack skills
@@ -28,6 +24,18 @@ I'm a B.Tech IT student at MSIT Delhi (affiliated with IPU University). I love w
 - ![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon&logoColor=black)
 - ![bcrypt](https://img.shields.io/badge/-bcrypt-6666FF?style=flat)
 - ![CORS](https://img.shields.io/badge/-CORS-FF8800?style=flat)
+
+## 📈 GitHub Stats
+
+![Shiven's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivengoomer&show_icons=true&theme=radical)
+
+## 🟢 My Coding Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shivengoomer&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+## 📊 My Activity Graph
+
+![Shiven's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivengoomer&theme=github)
 
 ## 📫 How to reach me
 - **Email**: [shivengoomer@gmail.com](mailto:shivengoomer@gmail.com)
