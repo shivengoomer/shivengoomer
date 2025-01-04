@@ -1,4 +1,4 @@
-# Hi there, I'm Shiven Goomer! 👋
+# Hi there, I'm Shiven Goomer! 
 
 🚀 **Passionate Cloud Computing Enthusiast**  
 💻 **MERN Stack Developer**  
