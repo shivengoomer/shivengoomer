@@ -27,6 +27,10 @@ Currently, I'm building exciting projects and expanding my skills in both domain
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=shivengoomer&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" alt="readme stats" />
 &nbsp;&nbsp;&nbsp;  <img width=320 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shivengoomer&hide=HTML&langs_count=8&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+<div>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivengoomer" alt="shivengoomer" /></a> </p>
+
+</div>
 
 ## 📫 How to reach me
 - **Email**: [shivengoomer@gmail.com](mailto:shivengoomer@gmail.com)
