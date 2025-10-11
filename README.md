@@ -1,39 +1,74 @@
-# Hi there, I'm Shiven Goomer! 
+# Hi there, I'm **Shiven Goomer!** 
 
-🚀 **Passionate Cloud Computing Enthusiast**  
-💻 **MERN Stack Developer**  
-Currently, I'm building exciting projects and expanding my skills in both domains.
 
-## 🌱 I’m currently learning
-- Advanced cloud computing concepts
-- Deepening my MERN stack skills
-- Data Structures and Algorithms (DSA)
+## Cloud Computing Enthusiast • MERN Stack Developer
 
- <a href="https://github.com/THEGAMECHANGER416">
-    <img src="https://github.com/THEGAMECHANGER416/THEGAMECHANGER416/blob/main/resources/grid-snake.svg" alt="snake">
-  </a>
+I build production-ready web apps, automate cloud workflows, and learn every day. Currently deepening my MERN skills, advanced cloud concepts (AWS & serverless), automation tools like **n8n**, and DSA.
 
-## 💻 Tech & Languages I Know
+---
+
+## Highlights
+
+* ✅ Building real-world projects using **React**, **Node.js**, **Express**, **MongoDB**, and **AWS**.
+* ⚡ Creating automation workflows using **n8n**, **Baileys Webhook**, and cloud APIs.
+* 🎯 Strong interest in distributed systems, automation, and developer tools.
+
+---
+
+## Tech Stack
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,nodejs,python,javascript,c,cpp,mysql,flask,react,mongodb,express" /><br>
-    <img src="https://skillicons.dev/icons?i=nodemon" alt="Nodemon" />
-    <img src="https://skillicons.dev/icons?i=bcrypt" alt="bcrypt" />
-    <img src="https://skillicons.dev/icons?i=cors" alt="CORS" />
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,nodejs,python,javascript,typescript,c,cpp,mysql,flask,react,nextjs,mongodb,express,aws,docker,n8n" alt="tech icons" />
+</div>
+---
+<details>
+<summary><strong>Expanded tech list</strong></summary>
+
+* **Frontend:** React, Next.js, Tailwind CSS, styled-components
+* **Backend:** Node.js, Express, Flask
+* **Automation & Integrations:** n8n, Baileys, Webhooks, REST APIs
+* **Databases:** MongoDB, PostgreSQL, MySQL
+* **DevOps / Cloud:** AWS (Lambda, S3, EventBridge), Docker, CI/CD, n8n
+* **Languages:** JavaScript, TypeScript, Python, C/C++
+* **Version Control & Tools:** Git, GitHub, VSCode, Postman, Render, Railway
+
+</details>
+
+---
+
+## Visual Stats & Activity
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats-salesp07.vercel.app/api?username=shivengoomer\&count_private=true\&show_icons=true\&theme=highcontrast\&rank_icon=github\&border_radius=10)
+  
+![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shivengoomer\&hide=HTML\&langs_count=8\&layout=compact\&theme=highcontrast\&border_radius=10\&size_weight=0.5\&count_weight=0.5\&exclude_repo=github-readme-stats)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivengoomer\&theme=react-dark\&area=true\&hide_border=true)
+
 </div>
 
+---
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=shivengoomer&count_private=true&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" alt="readme stats" />
-&nbsp;&nbsp;&nbsp;  <img width=320 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shivengoomer&hide=HTML&langs_count=8&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<div>
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivengoomer" alt="shivengoomer" /></a> </p>
+## Skill Snapshot
 
-</div>
+| Skill                |          Level |
+| -------------------- | -------------: |
+| JavaScript / Node.js | █████████░ 90% |
+| React / Next.js      | ████████░░ 85% |
+| MongoDB / SQL        | ███████░░░ 75% |
+| AWS / Serverless     | ███████░░░ 70% |
+| n8n / Automation     | ██████░░░░ 65% |
+---
 
-## 📫 How to reach me
-- **Email**: [shivengoomer@gmail.com](mailto:shivengoomer@gmail.com)
-- **GitHub**: [github.com/shivengoomer](https://github.com/shivengoomer)
-- **LinkedIn**: [linkedin.com/in/shiven-goomer](https://www.linkedin.com/in/shiven-goomer)
+## 📫 Reach out
 
+* **Email:** [shivengoomer@gmail.com](mailto:shivengoomer@gmail.com)
+* **GitHub:** [github.com/shivengoomer](https://github.com/shivengoomer)
+* **LinkedIn:** [linkedin.com/in/shiven-goomer](https://www.linkedin.com/in/shiven-goomer)
+
+---
+
+<p align="center">
+  <small>Made by Shiven • Last updated: Oct 2025</small>
+</p>
