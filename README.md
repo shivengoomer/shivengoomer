@@ -9,8 +9,8 @@ I build production-ready web apps, automate cloud workflows, and learn every day
 
 ## Highlights
 
-* ✅ Building real-world projects using **React**, **Node.js**, **Express**, **MongoDB**, and **AWS**.
-* ⚡ Creating automation workflows using **n8n**, **Baileys Webhook**, and cloud APIs.
+* Building real-world projects using **React**, **Node.js**, **Express**, **MongoDB**, and **AWS**.
+* Creating automation workflows using **n8n**, **Baileys Webhook**, and cloud APIs.
 * 🎯 Strong interest in distributed systems, automation, and developer tools.
 
 ---
