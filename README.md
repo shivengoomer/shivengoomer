@@ -1,74 +1,86 @@
-# Hi there, I'm **Shiven Goomer!** 
+<table>
+<tr>
+<td width="50%">
 
+# Shiven Goomer
 
-## Cloud Computing Enthusiast • MERN Stack Developer
+Full-stack developer specializing in cloud-native applications and workflow automation. I build scalable systems using modern web technologies and AWS infrastructure.
 
-I build production-ready web apps, automate cloud workflows, and learn every day. Currently deepening my MERN skills, advanced cloud concepts (AWS & serverless), automation tools like **n8n**, and DSA.
+## Current Focus
 
----
+Building production-grade applications with the MERN stack, and developing automation solutions that streamline complex workflows. Continuously strengthening my foundation in distributed systems and data structures.
 
-## Highlights
+</td>
+<td width="50%">
 
-* Building real-world projects using **React**, **Node.js**, **Express**, **MongoDB**, and **AWS**.
-* Creating automation workflows using **n8n**, **Baileys Webhook**, and cloud APIs.
-* 🎯 Strong interest in distributed systems, automation, and developer tools.
+<img src="https://private-user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc2NDU2NDYsIm5iZiI6MTc2NzY0NTM0NiwicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUyNDgtZmYxYjVmMzItOTQyMC00ZGRlLWIyYjktZWQyYzBhYTE3NDU5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTA1VDIwMzU0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFhMDQyOWRmOGMzNzNjMTMzNjg5ODVmODU2NjA2NThlM2E1NTlhMDNjM2Y0NzA4NTY4MTFiYjYxMGYxYWNkMWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.P3Xwhpa3E5gQoISRs91hOUaQTZgKovshXkBwQuvt54I" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,nodejs,python,javascript,typescript,c,cpp,mysql,flask,react,nextjs,mongodb,express,aws,docker,n8n" alt="tech icons" />
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java&theme=dark" />
+</p>
+
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind,html,css&theme=dark" />
+</p>
+
+### Databases & ORM
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma&theme=dark" />
+  <img src="https://img.shields.io/badge/-Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" height="48"/>
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark" />
+  <img src="https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=aws-lambda&logoColor=white" height="48"/>
+</p>
+
+### Tools & Integrations
+**AI & API Integrations:** Groq API, Google Gemini API, NextAuth  
+**Automation:** n8n, Webhooks, Baileys (WhatsApp Web API)
+
 </div>
----
-<details>
-<summary><strong>Expanded tech list</strong></summary>
-
-* **Frontend:** React, Next.js, Tailwind CSS, styled-components
-* **Backend:** Node.js, Express, Flask
-* **Automation & Integrations:** n8n, Baileys, Webhooks, REST APIs
-* **Databases:** MongoDB, PostgreSQL, MySQL
-* **DevOps / Cloud:** AWS (Lambda, S3, EventBridge), Docker, CI/CD, n8n
-* **Languages:** JavaScript, TypeScript, Python, C/C++
-* **Version Control & Tools:** Git, GitHub, VSCode, Postman, Render, Railway
-
-</details>
 
 ---
 
-## Visual Stats & Activity
+<!-- GitHub Stats -->
+## Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivengoomer&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="98%"/>
+</div>
+
+---
+
+## Connect With Me
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats-salesp07.vercel.app/api?username=shivengoomer\&count_private=true\&show_icons=true\&theme=highcontrast\&rank_icon=github\&border_radius=10)
-  
-![Top Langs](https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shivengoomer\&hide=HTML\&langs_count=8\&layout=compact\&theme=highcontrast\&border_radius=10\&size_weight=0.5\&count_weight=0.5\&exclude_repo=github-readme-stats)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shivengoomer\&theme=react-dark\&area=true\&hide_border=true)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shiven-goomer)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivengoomer)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivengoomer@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://shivengoomer.dev)
 
 </div>
 
 ---
 
-## Skill Snapshot
-
-| Skill                |          Level |
-| -------------------- | -------------: |
-| JavaScript / Node.js | █████████░ 90% |
-| React / Next.js      | ████████░░ 85% |
-| MongoDB / SQL        | ███████░░░ 75% |
-| AWS / Serverless     | ███████░░░ 70% |
-| n8n / Automation     | ██████░░░░ 65% |
----
-
-## 📫 Reach out
-
-* **Email:** [shivengoomer@gmail.com](mailto:shivengoomer@gmail.com)
-* **GitHub:** [github.com/shivengoomer](https://github.com/shivengoomer)
-* **LinkedIn:** [linkedin.com/in/shiven-goomer](https://www.linkedin.com/in/shiven-goomer)
-
----
-
-<p align="center">
-  <small>Made by Shiven • Last updated: Oct 2025</small>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  
+  ### From [shivengoomer](https://github.com/shivengoomer)
+  
+  **"Building the future, one commit at a time"**
+</div>
