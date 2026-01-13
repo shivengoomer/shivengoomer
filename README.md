@@ -13,7 +13,7 @@ Building production-grade applications with the MERN stack, and developing autom
 </td>
 <td width="50%">
 
-<img src="https://private-user-images.githubusercontent.com/74038190/240825371-403af6cc-32fd-4026-8fb5-ae523bf899c3.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc3MzEzODUsIm5iZiI6MTc2NzczMTA4NSwicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzNzEtNDAzYWY2Y2MtMzJmZC00MDI2LThmYjUtYWU1MjNiZjg5OWMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTA2VDIwMjQ0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI5ZjQwYTJlMTFlNmQ0MTI4MGVlZWQ4NGE4NGI1N2NkOTQyOTg0NDExNWEyZjZkZGNmMGMxNDcxYjAwODMzYzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.5N1wNvSnM0r7RzOhpVqYUX3DhtI-cyn2RDEo7UUCbg0" width="100%" />
+<img src="https://github.com/shivengoomer/shivengoomer/blob/main/laptop.gif" width="80%"  />
 
 </td>
 </tr>
